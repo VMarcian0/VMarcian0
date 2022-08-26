@@ -6,7 +6,7 @@
 
 I'm a Backend Developer. My skills are mostly focused on Typescript and I'm a python enthusiast too.
 
-Most of my professional development was made using [Feathers.js](https://feathersjs.com/) with typescript, MongoDB with Mongoose and recently with PostgresSQL with Sequelize.
+Most of my professional development was made using [Feathers.js](https://feathersjs.com/) with typescript, MongoDB with Mongoose and recently with PostgresSQL with Sequelize and TypeORM.
 
 I'm used to deploy and interact with smart contracts on ethereum based blockchains. I've already deployed some ERC721 contracts on Ethereum Main Net, minted tokens and transferred them through one of the apis I've developed.
 
